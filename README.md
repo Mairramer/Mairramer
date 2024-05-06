@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Mairramer/Mairramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a mobile engineer at [Sólides](https://solides.com.br/)
 
-Here are some ideas to get you started:
+- 🧱 I’m currently working with Flutter and Dart. But with knowledgeable in java, kotlin, swift and javascript/typescript.
+- 🧱 I also work with Spring boot in backend.
+- 🧑‍💻 I’m looking to collaborate on open source projects
+- 💬 Ask me about [Flutter](https://flutter.dev).
+- 😄 Pronouns: he/him/his
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Open Source Projects Contribuition
+[![Flutter/Flutter](https://github-readme-stats.vercel.app/api/pin/?username=flutter&repo=flutter)](https://github.com/flutter/flutter)
+[![Flutter/Packages](https://github-readme-stats.vercel.app/api/pin/?username=flutter&repo=packages)](https://github.com/flutter/packages)
+
+### Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mairramer&count_private=true&theme=default&show_icons=true)](https://github.com/Mairramer/github-readme-stats)
