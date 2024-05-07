@@ -13,4 +13,7 @@ I'm a mobile engineer at [Sólides](https://solides.com.br/)
 [![Flutter/Packages](https://github-readme-stats.vercel.app/api/pin/?username=flutter&repo=packages)](https://github.com/flutter/packages)
 
 ### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mairramer&count_private=true&theme=default&show_icons=true)](https://github.com/Mairramer/github-readme-stats)
+<div style="display: inline;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mairramer&show=reviews,prs_merged,prs_merged_percentage" />
+  <img width='272em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mairramer&langs_count=20&layout=compact" />
+</div>
